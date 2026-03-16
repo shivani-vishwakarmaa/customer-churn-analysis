@@ -136,6 +136,8 @@ sql
 dashboard
    churn_dashboard.pbix
 
+images 
+
 README.md
 ```
 
@@ -168,7 +170,7 @@ Some potential improvements for this project:
 
 If you have feedback, suggestions, or would like to collaborate, feel free to connect.
 
-[GitHub](https://github.com/shivani-vishwakarmaa)
+[GitHub](https://github.com/shivani-vishwakarmaa) | 
 [LinkedIn](https://www.linkedin.com/in/shivani-vishwakarmaa/)
 
 ---
