@@ -117,29 +117,7 @@ Based on the analysis, the following strategies could help reduce churn:
 * Improve customer experience for **high-cost plans**
 * Offer **personalized retention offers** for at-risk customers
 
----
 
-# Repository Structure
-
-```
-customer-churn-analysis
-
-data
-   churn_dataset.csv
-
-notebooks
-   churn_analysis.ipynb
-
-sql
-   churn_queries.sql
-
-dashboard
-   churn_dashboard.pbix
-
-images 
-
-README.md
-```
 
 ---
 
